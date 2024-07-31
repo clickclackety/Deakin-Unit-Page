@@ -11,9 +11,10 @@ h2 {
 h3 {
   font-family: Arial
 }
+div {
+  background-color: darkcyan; text-align: right; 
+}
 p {
   font-size: 14px;
   font-family: Arial
 }
-
-
